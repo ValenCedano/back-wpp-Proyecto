@@ -1,0 +1,285 @@
+{
+  "usuarios": [
+    {
+      "Id": 1,
+      "nombre": "Martín",
+      "número de celular": 310000000,
+      "password": 1234,
+      "foto de perfil": "https://www.freepik.es/vector-gratis/fin-cuarentena_8135149.htm#query=mujer%20saludando&position=0&from_view=keyword&track=ais&uuid=277de553-7cba-4bef-9143-65728207c345",
+      "flag": "true",
+      "información de usuario": "Soy Martín:3",
+      "última conexión": "12:35 - 28/02/2024"
+    },
+    {
+      "Id": 2,
+      "nombre": "Josefa",
+      "número de celular": 302222222,
+      "password": 2345,
+      "foto de perfil": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F7925299-mujer-joven-feliz-con-la-mano-en-la-cintura-sonriendo-agitando-la-mano-saludando-alegremente-diciendo-hola-encantado-de-conocer-personas-bienvenidas-con-gesto-de-saludo-informal&psig=AOvVaw3kQUXjYhsBh8DcVhUU8oYT&ust=1709152321233000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCBydmuzIQDFQAAAAAdAAAAABAT",
+      "flag": "true",
+      "información de usuario": "Soy Josefa :3",
+      "última conexión": "2:35 - 27/02/2024"
+    }
+    ,
+    {
+      "Id":3,
+      "nombre": "Ingrid",
+      "número de celular": 303333333,
+      "password": 3456,
+      "foto de perfil": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F7925299-mujer-joven-feliz-con-la-mano-en-la-cintura-sonriendo-agitando-la-mano-saludando-alegremente-diciendo-hola-encantado-de-conocer-personas-bienvenidas-con-gesto-de-saludo-informal&psig=AOvVaw3kQUXjYhsBh8DcVhUU8oYT&ust=1709152321233000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCBydmuzIQDFQAAAAAdAAAAABAT",
+      "flag": "true",
+      "información de usuario": "Soy Ingrid :3",
+      "última conexión": "5:35 - 27/02/2024"
+    }
+    ,
+    {
+      "Id": 4,
+      "nombre": "Jan",
+      "número de celular": 304444444,
+      "password": 4567,
+      "foto de perfil": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F7925299-mujer-joven-feliz-con-la-mano-en-la-cintura-sonriendo-agitando-la-mano-saludando-alegremente-diciendo-hola-encantado-de-conocer-personas-bienvenidas-con-gesto-de-saludo-informal&psig=AOvVaw3kQUXjYhsBh8DcVhUU8oYT&ust=1709152321233000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCBydmuzIQDFQAAAAAdAAAAABAT",
+      "flag": "true",
+      "información de usuario": "Soy Jan :3",
+      "última conexión": "9:35 - 27/02/2024"
+    }
+    ,
+    {
+      "Id": 5,
+      "nombre": "Ruben",
+      "número de celular": 305555555,
+      "password": 5678,
+      "foto de perfil": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F7925299-mujer-joven-feliz-con-la-mano-en-la-cintura-sonriendo-agitando-la-mano-saludando-alegremente-diciendo-hola-encantado-de-conocer-personas-bienvenidas-con-gesto-de-saludo-informal&psig=AOvVaw3kQUXjYhsBh8DcVhUU8oYT&ust=1709152321233000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCBydmuzIQDFQAAAAAdAAAAABAT",
+      "flag": "false",
+      "información de usuario": "Soy Ruben :3",
+      "última conexión": "5:35 - 27/02/2024"
+    }
+    ,
+    {
+      "Id": 6,
+      "nombre": "Dionisio",
+      "número de celular": 306666666,
+      "password": 6789,
+      "foto de perfil": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F7925299-mujer-joven-feliz-con-la-mano-en-la-cintura-sonriendo-agitando-la-mano-saludando-alegremente-diciendo-hola-encantado-de-conocer-personas-bienvenidas-con-gesto-de-saludo-informal&psig=AOvVaw3kQUXjYhsBh8DcVhUU8oYT&ust=1709152321233000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCBydmuzIQDFQAAAAAdAAAAABAT",
+      "flag": "true",
+      "información de usuario": "Soy Dionisio :3",
+      "última conexión": "2:35 - 27/02/2024"
+    }
+    ,
+    {
+      "Id": 7,
+      "nombre": "Rufino",
+      "número de celular": 307777777,
+      "password": 1011,
+      "foto de perfil": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F7925299-mujer-joven-feliz-con-la-mano-en-la-cintura-sonriendo-agitando-la-mano-saludando-alegremente-diciendo-hola-encantado-de-conocer-personas-bienvenidas-con-gesto-de-saludo-informal&psig=AOvVaw3kQUXjYhsBh8DcVhUU8oYT&ust=1709152321233000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCBydmuzIQDFQAAAAAdAAAAABAT",
+      "flag": "false",
+      "información de usuario": "Soy Rufino :3",
+      "última conexión": "6:35 - 27/02/2024"
+    }
+    ,
+    {
+      "Id": 8,
+      "nombre": "Mariano",
+      "número de celular": 308888888,
+      "password": 1112,
+      "foto de perfil": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F7925299-mujer-joven-feliz-con-la-mano-en-la-cintura-sonriendo-agitando-la-mano-saludando-alegremente-diciendo-hola-encantado-de-conocer-personas-bienvenidas-con-gesto-de-saludo-informal&psig=AOvVaw3kQUXjYhsBh8DcVhUU8oYT&ust=1709152321233000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCBydmuzIQDFQAAAAAdAAAAABAT",
+      "flag": "true",
+      "información de usuario": "Soy Mariano :3",
+      "última conexión": "8:35 - 27/02/2024"
+    }
+    ,
+    {
+      "Id": 9,
+      "nombre": "Pilar",
+      "número de celular": 309999999,
+      "password": 1213,
+      "foto de perfil": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F7925299-mujer-joven-feliz-con-la-mano-en-la-cintura-sonriendo-agitando-la-mano-saludando-alegremente-diciendo-hola-encantado-de-conocer-personas-bienvenidas-con-gesto-de-saludo-informal&psig=AOvVaw3kQUXjYhsBh8DcVhUU8oYT&ust=1709152321233000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCBydmuzIQDFQAAAAAdAAAAABAT",
+      "flag": "false",
+      "información de usuario": "Soy Pilar :3",
+      "última conexión": "1:35 - 27/02/2024"
+    }
+  ],
+  "mensajes": [
+    {
+      "id": 1,
+      "senderId": 1,
+      "receptorId": 2,
+      "message": [
+        {
+          "sender": 1,
+          "date": "2024-03-01",
+          "hour": "10:00",
+          "message": "Hola Josefa",
+          "seen": true
+        },
+        {
+          "sender": 2,
+          "date": "2024-03-01",
+          "hour": "2:35",
+          "message": "Hola Martín ¿Cómo estás?",
+          "seen": false
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "senderId": 3,
+      "receptorId": 1,
+      "message": [
+        {
+          "sender":3,
+          "date": "2024-03-01",
+          "hour": "5:35",
+          "message": "Hola Martín ¿Cómo estás?",
+          "seen": true
+
+        },
+        {
+          "sender":1,
+          "date": "2024-03-01",
+          "hour": "5:35",
+          "message": "Hola Ingrid ¿Cómo estás?",
+          "seen": false
+
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "senderId": 4,
+      "receptorId": 1,
+      "message": [
+        {
+          "sender":4,
+          "date": "2024-03-01",
+          "hour": "5:35",
+          "message": "Hola Martín ¿Cómo estás?",
+          "seen": true
+
+        },
+        {
+          "sender":1,
+          "date": "2024-03-01",
+          "hour": "5:35",
+          "message": "Hola Jan ¿Cómo estás?",
+          "seen": false
+
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "senderId": 1,
+      "receptorId": 5,
+      "message": [
+        {
+          "sender":1,
+          "date": "2024-03-01",
+          "hour": "5:35",
+          "message": "Hola Ruben ¿Cómo estás?",
+          "seen":true
+
+        },
+        {
+          "sender":5,
+          "date": "2024-03-01",
+          "hour": "5:35",
+          "message": "Hola Martin ¿Cómo estás?",
+          "seen": false
+
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "senderId": 1,
+      "receptorId": 6,
+      "message": [
+        {
+          "sender":4,
+          "date": "2024-03-01",
+          "hour": "5:35",
+          "message": "Hola Dionisio ¿Cómo estás?",
+          "seen": true
+
+        },
+        {
+          "sender":6,
+          "date": "2024-03-01",
+          "hour": "5:35",
+          "message": "Hola Martín ¿Cómo estás?",
+          "seen": false
+
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "senderId": 7,
+      "receptorId": 1,
+      "message": [
+        {
+          "sender":7,
+          "date": "2024-03-01",
+          "hour": "5:35",
+          "message": "Hola Martín ¿Cómo estás?",
+          "seen": true
+
+        },
+        {
+          "sender":1,
+          "date": "2024-03-01",
+          "hour": "5:35",
+          "message": "Hola Rufino ¿Cómo estás?",
+          "seen": false
+
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "senderId": 1,
+      "receptorId": 8,
+      "message": [
+        {
+          "sender":1,
+          "date": "2024-03-01",
+          "hour": "5:35",
+          "message": "Hola Mariano ¿Cómo estás?",
+          "seen": true
+
+        },
+        {
+          "sender":8,
+          "date": "2024-03-01",
+          "hour": "5:35",
+          "message": "Hola Martin ¿Cómo estás?",
+          "seen": false
+
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "senderId": 1,
+      "receptorId": 9,
+      "message": [
+        {
+          "sender":1,
+          "date": "2024-03-01",
+          "hour": "5:35",
+          "message": "Hola Pilar ¿Cómo estás?",
+          "seen": true
+
+        },
+        {
+          "sender":9,
+          "date": "2024-03-01",
+          "hour": "5:35",
+          "message": "Hola Martín ¿Cómo estás?",
+          "seen": false
+
+        }
+      ]
+    }
+  ]
+}

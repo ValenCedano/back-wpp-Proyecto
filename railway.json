@@ -1,0 +1,12 @@
+{
+    "version":0,
+    "requires":[],
+    "build":{
+        "commands":[
+            "npm install"
+        ]
+    },
+    "env":{
+        "PORT":"3000"
+    }
+}
