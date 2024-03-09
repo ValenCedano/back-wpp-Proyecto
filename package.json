@@ -1,15 +1,24 @@
 {
-  "name": "back-miwpp-proyecto",
+  "name": "market-place",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValenCedano/Project-1.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValenCedano/Project-1.git/issues"
+  },
+  "homepage": "https://github.com/ValenCedano/Project-1.git#readme",
   "dependencies": {
-    "json-server": "^1.0.0-alpha.23"
+    "json-server": "^0.17.4"
   }
 }
